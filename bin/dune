@@ -1,0 +1,2 @@
+(executable (name IdkjsFooApp) (public_name IdkjsFooApp.exe)
+    (libraries idkjs-foo.library)) 

@@ -1,0 +1,2 @@
+(executable (name RunIdkjsFooTests) (public_name RunIdkjsFooTests.exe)
+    (libraries idkjs-foo.test)) 
