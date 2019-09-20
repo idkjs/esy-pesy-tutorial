@@ -1,2 +1,4 @@
 Console.log("Running Test Program:");
-let () = print_endline(Library.Util.hello());
+let () = print_endline(Foolib.Util.hello());
+Console.log("Running Foo Program:");
+let () = Foolib.Util.foo();

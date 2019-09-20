@@ -17,7 +17,7 @@
   "buildDirs": {
     "test": {
       "require": [
-        "idkjs-foo/library",
+        "idkjs-foo/foolib",
         "rely.lib"
       ],
       "flags": [
@@ -35,7 +35,7 @@
         "RunIdkjsFooTests.exe": "RunIdkjsFooTests.re"
       }
     },
-    "library": {
+    "foolib": {
       "require": [
         "console.lib",
         "pastel.lib"
@@ -43,7 +43,7 @@
     },
     "bin": {
       "require": [
-        "idkjs-foo/library"
+        "idkjs-foo/foolib"
       ],
       "bin": {
         "IdkjsFooApp.exe": "IdkjsFooApp.re"

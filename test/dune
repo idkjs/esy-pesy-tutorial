@@ -1,2 +1,2 @@
 (library (name Test) (public_name idkjs-foo.test)
-    (libraries idkjs-foo.library rely.lib) (flags -linkall -g -w -9)) 
+    (libraries idkjs-foo.foolib rely.lib) (flags -linkall -g -w -9)) 

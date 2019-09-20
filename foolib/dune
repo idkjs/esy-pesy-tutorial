@@ -1,0 +1,2 @@
+(library (name Foolib) (public_name idkjs-foo.foolib)
+    (libraries console.lib pastel.lib)) 

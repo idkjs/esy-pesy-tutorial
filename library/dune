@@ -1,2 +1,0 @@
-(library (name Library) (public_name idkjs-foo.library)
-    (libraries console.lib pastel.lib)) 
