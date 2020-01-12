@@ -4,6 +4,8 @@
 
 Easiest way to get started with distributing you library is to publish the source to NPM. Let's take a look at an example.
 
+We will bootstrap with `pesy`. Install with `npm install -g pesy`.
+
 In the original instructions, the project name foo is used. We change `foo` in the examples below to some other project name as `foo` is already in use on npm and you will not be able to run `npm publish` on that name.
 
 For this demonstration, I used `idkjs-foo`.
